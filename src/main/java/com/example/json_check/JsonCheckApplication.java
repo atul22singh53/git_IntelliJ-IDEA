@@ -1,0 +1,13 @@
+package com.example.json_check;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JsonCheckApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(JsonCheckApplication.class, args);
+    }
+
+}
